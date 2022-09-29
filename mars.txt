@@ -1,3 +1,4 @@
 Cold, Raining, first line
 second edit
 B's conflict edit
+this is a conflict edit from A
